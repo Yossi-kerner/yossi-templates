@@ -1,3 +1,2 @@
 # yossi-templates
 lalalila
-asdf
