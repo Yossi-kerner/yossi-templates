@@ -1,2 +1,2 @@
 # yossi-templates
-change in a 
+change in
