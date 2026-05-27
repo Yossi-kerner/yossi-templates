@@ -1,0 +1,9 @@
+environments:
+  qaEnvOne:
+    name: "QA ENG-1703 Env One"
+    projectId: "876e2599-44fc-43e0-9233-165e094d49e8"
+    templateId: "fdacadd9-1736-443c-ba74-3ec64dbd5055"
+  qaEnvTwo:
+    name: "QA ENG-1703 Env Two"
+    projectId: "876e2599-44fc-43e0-9233-165e094d49e8"
+    templateId: "fdacadd9-1736-443c-ba74-3ec64dbd5055"
