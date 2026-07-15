@@ -1,0 +1,3 @@
+environments:
+  nodeA: {name: workflow-node-a, templateName: eng2078-qa2-null-resource, workspace: wf-node-a, needs: []}
+  nodeB: {name: workflow-node-b, templateName: eng2078-qa2-null-resource, workspace: wf-node-b, needs: [nodeA]}
